@@ -1,0 +1,2 @@
+# Exploring-AutoEncoder
+This is notebook where I just create random idenitity and Autoencoder networks to actually see what the convolution layers are learning. Mostly I visualise the internal layers activation and conclusions can be drawn about what the hidden layers are learning. For anyone who is trying to build CNN. This can also help them guide them into thinking and creating proper hidden representation.
